@@ -15,4 +15,6 @@ This [course](https://www.youtube.com/watch?v=lg-2e5KpjOA&list=PL6tu16kXT9PrnRts
 ### Run
 Open Powershell to the solution root folder and run:
 ```
+.\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe .\RestSharpDemo\bin\Debug\RestSharpDemo.dll
+```
 Good luck for all :)
